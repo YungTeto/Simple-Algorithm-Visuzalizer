@@ -1,2 +1,2 @@
 # Simple-Algorithm-Visuzalizer
-Practicing Java Swing by visualizing a sorting algorithm!
+A simple sorting algorithm visualizer to practice implementing a GUI in Java
